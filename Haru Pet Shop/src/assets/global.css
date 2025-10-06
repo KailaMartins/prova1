@@ -1,0 +1,4 @@
+/* global.css */
+body, #app, .v-application {
+  background-color: #000000; /* cor padrão do Pet Shop HARU (exemplo laranja) */
+}
